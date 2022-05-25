@@ -1,0 +1,142 @@
+{
+    "treino" : [
+        {
+            "sequencia" : "A" ,
+            "equipamento" : "-" ,
+            "exercicio" : "Agachamento livre (solo)",
+            "serie" : "3" ,
+            "repeticão ": "10-12" ,
+            "carga" : "-"            
+        },
+        {
+            "sequencia" : "A" ,
+            "equipamento" : "32" ,
+            "exercicio" : "Supino art inclinado" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga": "5/5"                    
+        },
+        {
+            "sequencia" : "A" ,
+            "equipamento" : "9" ,
+            "exercicio" : "Leg Press" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "4"                    
+        } ,
+        {
+            "sequencia" : "A" ,
+            "equipamento" : "8" ,
+            "exercicio" : "Voador peitoral" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "3"                    
+        } ,
+        {
+            "sequencia" : "A" ,
+            "equipamento" : "1" ,
+            "exercicio" : "Cadeira Extensora" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "4"                    
+        } ,
+        {
+            "sequencia" : "A" ,
+            "equipamento" : "-" ,
+            "exercicio" : "Elevação Lateral" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "3"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "5" ,
+            "exercicio" : "Cadeira Adutora" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "4"                    
+        } ,
+        {
+            "sequencia" : "A" ,
+            "equipamento" : "10" ,
+            "exercicio" : "Triceps Cross" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "3/3"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "-" ,
+            "exercicio" : "Elevação pelvica" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "-"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "7" ,
+            "exercicio" : "Puxada Fechada" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "4"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "13" ,
+            "exercicio" : "Extesnsão de tronco" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "-"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "7" ,
+            "exercicio" : "Remada Baixa" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "4"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "-" ,
+            "exercicio" : "Cadeira Flexora" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "6"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "-" ,
+            "exercicio" : "Biceps simultaneos" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "4/4"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "6" ,
+            "exercicio" : "Cadeira Abdutora" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "5"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "-" ,
+            "exercicio" : "Panturilha em pé" ,
+            "serie" : "3" ,
+            "repeticão" : "10-12" ,
+            "carga" : "-"                    
+        } ,
+        {
+            "sequencia" : "B" ,
+            "equipamento" : "-" ,
+            "exercicio" : "Perdigueiro" ,
+            "serie" : "3" ,
+            "repeticão" : "20-30" ,
+            "carga" : "-"                    
+        }
+       
+    ]
+
+}

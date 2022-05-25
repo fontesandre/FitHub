@@ -1,0 +1,17 @@
+"medida" : [
+    {
+        "busto" : 0,
+        "torax" : 96 ,
+        "cintura" : 85,
+        "quadril" : 102 ,
+        "ombro": 62,
+        "braco" : 40,
+        "panturrilha": 37,
+        "coxa": 53,
+        "dataMedida":"2022/03/15"    
+    },
+ 
+   
+]
+
+}
